@@ -1,6 +1,6 @@
 # Socializer. Full-stack Social Media Platform 🫶
 
-[🌎 Live Deploy](https://socializerme.vercel.app/) | [🖨️ API Documentation](https://github.com/janaiscoding/socializer/tree/main/backend#readme)
+[🌎 Live Deploy](https://socializerme.vercel.app/) 
 
 * **Customize** your name, avatar, banner and bio
 * Create posts with or without images. You can edit and delete your posts anytime
@@ -10,9 +10,6 @@
 * You can delete your account at any time. You can try the app with full features with the **demo** account
 * Can swap to light or dark mode themes
 
-### How it works 👇🏻
-
-![Live socializerme client preview](https://github.com/janaiscoding/socializer/blob/main/frontend/public/assets/socializerme.gif)
 
 ### Tech stack 🧰
 
@@ -30,21 +27,6 @@
 - Focused on creating an **accessible-friendly** experience, with a **95+ overall score** on Lighthouse scans.
 
 
-### Getting Started ⚙️
-
-```
-git clone git@github.com:janaiscoding/socializer.git
-cd socializer/frontend
-npm install
-create .env.local file at root directory of /frontend 
-add the following variables:
-NEXT_PUBLIC_DEMO_ID
-NEXT_PUBLIC_DEMO_PASSWORD
-NEXT_PUBLIC_DEMO_EMAIL
-NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME
-npm run dev
-Listening on localhost:3000
-```
 
 ### Extras
 
